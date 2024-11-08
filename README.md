@@ -1,7 +1,7 @@
-Demo:
+Demo:</br>
 [kitwong.shinyapps.io/MATH2270/](https://kitwong.shinyapps.io/MATH2270/)
 
-References:
+References:</br>
 [1] Larxel. (2024). S&P 500 Stocks (daily updated). Kaggle. https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks/data </br>
 [2] Nasdaq. (2023). Veralto To Be Added To S&P 500. https://www.nasdaq.com/articles/veralto-to-be-added-to-sp-500 </br>
 [3] Google Finance. (2024). Western Digital Corp. https://www.google.com/finance/quote/WDC:NASDAQ </br>
